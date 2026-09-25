@@ -1,0 +1,1 @@
+**Meat Bazar is a web-based meat ordering and management system designed to provide customers with a convenient, fast, and organized way to purchase fresh meat online. The system connects customers, administrators, and distributors to efficiently manage products, orders, payments, inventory, and delivery, while providing a smooth and reliable overall shopping experience.**
